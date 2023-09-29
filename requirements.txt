@@ -1,0 +1,4 @@
+discord.py   # Discord API library
+openai     # OpenAI API library
+mysql-connector-python  # MySQL database connector
+requests    # HTTP requests library
